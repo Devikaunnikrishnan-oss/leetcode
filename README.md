@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/0412-fizz-buzz) |
 | [2235-add-two-integers](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/2235-add-two-integers) |
@@ -39,5 +40,10 @@
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/0326-power-of-three) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
