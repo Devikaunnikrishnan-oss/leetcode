@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/0169-majority-element) |
+| [1480-running-sum-of-1d-array](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,4 +47,8 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/0231-power-of-two) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
