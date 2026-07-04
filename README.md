@@ -8,6 +8,7 @@
 | [0326-power-of-three](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/0412-fizz-buzz) |
 | [2235-add-two-integers](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/2235-add-two-integers) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## String
 |  |
 | ------- |
@@ -22,6 +23,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/0169-majority-element) |
 | [1480-running-sum-of-1d-array](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Hash Table
 |  |
 | ------- |
