@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/0058-length-of-last-word) |
+| [0392-is-subsequence](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
@@ -56,4 +57,12 @@
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/1480-running-sum-of-1d-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/0392-is-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
