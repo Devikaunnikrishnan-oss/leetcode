@@ -7,6 +7,7 @@
 | [0231-power-of-two](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/0412-fizz-buzz) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2235-add-two-integers](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/2235-add-two-integers) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## String
