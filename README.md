@@ -24,6 +24,7 @@
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/0217-contains-duplicate) |
 | [1470-shuffle-the-array](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/1470-shuffle-the-array) |
@@ -56,6 +57,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/0231-power-of-two) |
 ## Prefix Sum
 |  |
