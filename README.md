@@ -8,6 +8,7 @@
 | [0326-power-of-three](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/0412-fizz-buzz) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1952-three-divisors](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/1952-three-divisors) |
 | [2235-add-two-integers](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/2235-add-two-integers) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## String
@@ -71,4 +72,20 @@
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/0392-is-subsequence) |
+## Enumeration
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/1952-three-divisors) |
+## Number Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/1952-three-divisors) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
