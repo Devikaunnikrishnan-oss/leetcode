@@ -17,6 +17,7 @@
 | [0058-length-of-last-word](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/0058-length-of-last-word) |
 | [0392-is-subsequence](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/0412-fizz-buzz) |
+| [0557-reverse-words-in-a-string-iii](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Simulation
@@ -71,6 +72,7 @@
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/0392-is-subsequence) |
+| [0557-reverse-words-in-a-string-iii](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
