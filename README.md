@@ -18,6 +18,7 @@
 | [0392-is-subsequence](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [1528-shuffle-string](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/1528-shuffle-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Simulation
@@ -33,6 +34,7 @@
 | [0217-contains-duplicate](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/0217-contains-duplicate) |
 | [1470-shuffle-the-array](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1528-shuffle-string](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/1528-shuffle-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
