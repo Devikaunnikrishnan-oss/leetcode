@@ -14,6 +14,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/0058-length-of-last-word) |
 | [0392-is-subsequence](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/0412-fizz-buzz) |
@@ -30,6 +31,7 @@
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/0014-longest-common-prefix) |
 | [0136-single-number](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/0217-contains-duplicate) |
@@ -97,4 +99,8 @@
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/1952-three-divisors) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
