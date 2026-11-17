@@ -33,6 +33,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/0014-longest-common-prefix) |
 | [0136-single-number](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/0217-contains-duplicate) |
 | [1470-shuffle-the-array](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/1470-shuffle-the-array) |
@@ -80,6 +81,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 ## Dynamic Programming
@@ -110,4 +112,8 @@
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/1672-richest-customer-wealth) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
