@@ -8,6 +8,7 @@
 | [0326-power-of-three](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/0412-fizz-buzz) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1512-number-of-good-pairs](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1952-three-divisors](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/1952-three-divisors) |
 | [2235-add-two-integers](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/2235-add-two-integers) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -38,6 +39,7 @@
 | [0217-contains-duplicate](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/0217-contains-duplicate) |
 | [1470-shuffle-the-array](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/1528-shuffle-string) |
 | [1672-richest-customer-wealth](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/1920-build-array-from-permutation) |
@@ -49,6 +51,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/0217-contains-duplicate) |
+| [1512-number-of-good-pairs](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/1512-number-of-good-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -63,6 +66,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/0169-majority-element) |
+| [1512-number-of-good-pairs](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/1512-number-of-good-pairs) |
 ## Recursion
 |  |
 | ------- |
