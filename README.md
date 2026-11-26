@@ -22,6 +22,7 @@
 | [0412-fizz-buzz](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1528-shuffle-string](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/1528-shuffle-string) |
+| [1859-sorting-the-sentence](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/1859-sorting-the-sentence) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Simulation
@@ -67,6 +68,7 @@
 | [0169-majority-element](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/0217-contains-duplicate) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1859-sorting-the-sentence](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/1859-sorting-the-sentence) |
 ## Counting
 |  |
 | ------- |
@@ -129,4 +131,8 @@
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Bubble Sort
+|  |
+| ------- |
+| [1859-sorting-the-sentence](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/1859-sorting-the-sentence) |
 <!---LeetCode Topics End-->
