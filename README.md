@@ -22,6 +22,7 @@
 | [0412-fizz-buzz](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1528-shuffle-string](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/1528-shuffle-string) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/1859-sorting-the-sentence) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -57,6 +58,7 @@
 | [0169-majority-element](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/0217-contains-duplicate) |
 | [1512-number-of-good-pairs](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/1512-number-of-good-pairs) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Divide and Conquer
 |  |
 | ------- |
