@@ -41,6 +41,7 @@
 | [0169-majority-element](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/0217-contains-duplicate) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/1470-shuffle-the-array) |
@@ -69,12 +70,14 @@
 | ------- |
 | [0169-majority-element](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/0217-contains-duplicate) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1859-sorting-the-sentence](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/1859-sorting-the-sentence) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/0169-majority-element) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1512-number-of-good-pairs](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/1512-number-of-good-pairs) |
 ## Recursion
 |  |
@@ -87,6 +90,7 @@
 | [0136-single-number](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/0231-power-of-two) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Devikaunnikrishnan-oss/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Prefix Sum
 |  |
 | ------- |
